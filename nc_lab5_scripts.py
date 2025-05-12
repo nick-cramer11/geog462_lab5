@@ -1,6 +1,6 @@
 # Lab 5 scripts
 
-import lab5_functions as l5
+import nc_lab5_functions as l5
 
 #  Part 1:
 
